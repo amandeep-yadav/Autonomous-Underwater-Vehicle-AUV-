@@ -1,0 +1,24 @@
+# YOLOv5 dependencies
+torch>=1.7.0
+torchvision>=0.8.0
+matplotlib>=3.2.2
+pandas>=1.1.0
+numpy>=1.18.5
+opencv-python>=4.5.1
+scipy>=1.4.1
+pillow>=8.0.0
+
+# Image augmentation
+albumentations>=1.0.0
+imgaug>=0.4.0
+augmentor>=0.2.10
+
+# Image enhancement techniques
+Pillow>=8.0.0
+pyTorch-Lightning>=1.4.0
+
+# For handling YOLOv5 dependencies (if using directly from a cloned repo)
+git+https://github.com/ultralytics/yolov5.git
+
+# For running Jupyter notebooks (if needed for testing)
+jupyterlab>=3.0.0
