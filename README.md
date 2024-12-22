@@ -3,6 +3,18 @@
 Welcome to the **Autonomous Underwater Vehicle (AUV)** project repository, developed for the **SAUVC 2024 Challenge**! This project focuses on building an underwater vehicle capable of autonomous navigation and performing tasks such as object detection and retrieval. 🌊
 
 ---
+## 📷 Visual Overview
+### Image inhancement
+<p align="center">
+  <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/before.jpg" alt="Before Enhancement" width="40%">
+  <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/after.jpg" alt="After Enhancement" width="40%">
+</p>
+
+### Image detection
+<p align="center">
+  <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/detect2.jpg" alt="Before Enhancement" width="40%">
+  <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/detect2.png " alt="After Enhancement" width="40%">
+</p>
 
 ## ✨ Features
 
@@ -133,24 +145,9 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 ---
 
-## 📷 Visual Overview
-### Image inhancement
-<p align="center">
-  <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/before.jpg" alt="Before Enhancement" width="30%">
-  <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/after.jpg" alt="After Enhancement" width="30%">
-</p>
-
-### Image detection
-<p align="center">
-  <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/detect2.jpg" alt="Before Enhancement" width="30%">
-  <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/detect2.png " alt="After Enhancement" width="30%">
-</p>
 ### Object Detection Demo
 ![Object Detection Demo](https://via.placeholder.com/800x400?text=Object+Detection+Pipeline+Demo)
 
 ### Data Augmentation Examples
 ![Data Augmentation Examples](https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/augmentatation.PNG)
-
-### Underwater AUV in Action
-![AUV in Action](https://via.placeholder.com/800x400?text=AUV+in+Water)
 
