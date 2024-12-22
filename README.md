@@ -136,10 +136,15 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 ## 📷 Visual Overview
 ### Image inhancement
 <p align="center">
-  <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/before.jpg" alt="Before Enhancement" width="20%">
-  <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/after.jpg" alt="After Enhancement" width="20%">
+  <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/before.jpg" alt="Before Enhancement" width="30%">
+  <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/after.jpg" alt="After Enhancement" width="30%">
 </p>
 
+### Image detection
+<p align="center">
+  <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/detect2.jpg" alt="Before Enhancement" width="30%">
+  <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/detect2.png " alt="After Enhancement" width="30%">
+</p>
 ### Object Detection Demo
 ![Object Detection Demo](https://via.placeholder.com/800x400?text=Object+Detection+Pipeline+Demo)
 
