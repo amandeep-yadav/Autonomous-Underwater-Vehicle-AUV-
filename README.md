@@ -123,7 +123,7 @@ python src/inference.py --image test_image.jpg
 
 ## 👨‍💻 Contributors
 
-- **Your Name** (Project Lead)  
+- **AMANDEEP YADAV** (Project Lead)  
 
 ---
 
