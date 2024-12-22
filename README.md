@@ -145,9 +145,26 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 ---
 
-### Object Detection Demo
-![Object Detection Demo](https://via.placeholder.com/800x400?text=Object+Detection+Pipeline+Demo)
 
 ### Data Augmentation Examples
 ![Data Augmentation Examples](https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/augmentatation.PNG)
+
+### Capabilities of AUV
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/1.PNG" alt="Image 1" width="200">
+    </td>
+    <td>
+      <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/2.PNG" alt="Image 2" width="200">
+    </td>
+    <td>
+      <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/3.PNG" alt="Image 3" width="200">
+    </td>
+    <td>
+      <img src="https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/4.PNG" alt="Image 4" width="200">
+    </td>
+  </tr>
+</table>
+
 
