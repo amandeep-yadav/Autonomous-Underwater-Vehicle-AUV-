@@ -139,7 +139,7 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 ![Object Detection Demo](https://via.placeholder.com/800x400?text=Object+Detection+Pipeline+Demo)
 
 ### Data Augmentation Examples
-![Data Augmentation Examples](https://via.placeholder.com/800x400?text=Augmented+Images+Examples)
+![Data Augmentation Examples](https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/augmentatation.PNG)
 
 ### Underwater AUV in Action
 ![AUV in Action](https://via.placeholder.com/800x400?text=AUV+in+Water)
