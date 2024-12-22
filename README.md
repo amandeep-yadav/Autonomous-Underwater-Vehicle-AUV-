@@ -19,27 +19,6 @@ Welcome to the **Autonomous Underwater Vehicle (AUV)** project repository, devel
 
 ## 🛠 Workflow
 
-### 1️⃣ Data Collection
-📸 Collected data by:
-- Capturing frames from videos.
-- Taking pictures of relevant objects (gates, flares, buckets, stands, etc.).
-
-### 2️⃣ Data Augmentation
-✨ Augmented the dataset to improve diversity and model robustness. Techniques included:
-- **Rotations, flips, scaling**.
-- OpenCV-based enhancements:
-  - 🎨 Increased contrast.
-  - 🌈 Decreased saturation.
-  - 🔧 Adjusted hue for clearer images.
-
-### 3️⃣ Model Selection
-🚀 Selected **YOLOv5** for its speed and accuracy in object detection tasks.
-
-### 4️⃣ Detection Pipeline
-🔄 Built a pipeline to:
-1. Preprocess input images.
-2. Perform object detection.
-3. Output predictions in real-time or batch mode.
 ![workflow chart](https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/Untitled%20diagram-2024-12-22-124443.png)
 ---
 
