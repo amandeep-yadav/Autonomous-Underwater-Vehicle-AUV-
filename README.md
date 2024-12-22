@@ -149,7 +149,8 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 ### Data Augmentation Examples
 ![Data Augmentation Examples](https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/augmentatation.PNG)
 
-### Capabilities of AUV
+### Task of AUV
+**Detection and differention of object task (hit or avoid)**
 <table>
   <tr>
     <td>
