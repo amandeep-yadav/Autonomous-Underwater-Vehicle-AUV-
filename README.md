@@ -40,7 +40,7 @@ Welcome to the **Autonomous Underwater Vehicle (AUV)** project repository, devel
 1. Preprocess input images.
 2. Perform object detection.
 3. Output predictions in real-time or batch mode.
-
+![workflow chart](https://github.com/amandeep-yadav/Autonomous-Underwater-Vehicle-AUV-/blob/main/img/Untitled%20diagram-2024-12-22-124443.png)
 ---
 
 ## 📁 Directory Structure
